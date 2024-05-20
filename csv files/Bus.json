@@ -1,0 +1,92 @@
+{
+    "1Bus": {
+        "ID": "1Bus",
+        "Round": "i+1",
+        "camId": "1101",
+        "Direction": "Ul-UR-UL-UL-UR-UR-UR-UL-UR-UR-UL-UR-UR-UL-UR-*"
+    },
+    "2Bus": {
+        "ID": "2Bus",
+        "Round": "i+1",
+        "camId": "1110",
+        "Direction": "DR-DL-DR-DL-DR-DR-DL-DL-DR-DL-DR-DL-*"
+    },
+    "3Bus": {
+        "ID": "3Bus",
+        "Round": "i+1",
+        "camId": "1010",
+        "Direction": "DL-DL-DR-DR-DL-DR-DR-*"
+    },
+    "4Bus": {
+        "ID": "4Bus",
+        "Round": "i+2",
+        "camId": "1101",
+        "Direction": "Ul-UR-UR-UR-UL-*"
+    },
+    "5Bus": {
+        "ID": "5Bus",
+        "Round": "i+2",
+        "camId": "1110",
+        "Direction": "DL-DL-DR-*"
+    },
+    "6Bus": {
+        "ID": "6Bus",
+        "Round": "i+2",
+        "camId": "1010",
+        "Direction": ""
+    },
+    "7Bus": {
+        "ID": "7Bus",
+        "Round": "i+3",
+        "camId": "1101",
+        "Direction": "UL-UR-UR-UR-UL-UR-UR-UL-UR-UR-UL-UL-UL-UL-UL-*"
+    },
+    "8Bus": {
+        "ID": "8Bus",
+        "Round": "i+3",
+        "camId": "1110",
+        "Direction": "DL-DR-DL-DL-DR-DL-DR-DL-DR-DR-DL-DR-*"
+    },
+    "9Bus": {
+        "ID": "9Bus",
+        "Round": "i+3",
+        "camId": "1010",
+        "Direction": "DR-DL-DR-DR-DL-DL-DR-DL-DL-DR-*"
+    },
+    "10Bus": {
+        "ID": "10Bus",
+        "Round": "i+4",
+        "camId": "1101",
+        "Direction": "UR-UR-UL-UL-UR-UR-UL-UL-UR-UR-UR-UR-UR-UL-UR-UL-UR-UR-*"
+    },
+    "11Bus": {
+        "ID": "11Bus",
+        "Round": "i+4",
+        "camId": "1110",
+        "Direction": "DL-DR-DL-DL-DR-DR-DL-DR-DL-DR-DR-DL-DR-DR-*"
+    },
+    "12Bus": {
+        "ID": "12Bus",
+        "Round": "i+4",
+        "camId": "1010",
+        "Direction": "DL-DL-DR-DR-DL-DR-DR-DL-DL-DL-DR-*"
+    },
+    "13Bus": {
+        "ID": "13Bus",
+        "Round": "i+5",
+        "camId": "1101",
+        "Direction": "UL-UL-UR-UR-UL-UR-UR-UL-UL-UR-UL-UR-UR-UR-UR-UR-UL-UL-*"
+    },
+    "14Bus": {
+        "ID": "14Bus",
+        "Round": "i+5",
+        "camId": "1110",
+        "Direction": "DL-DR-DL-DL-DR-DR-DL-DR-DR-DR-*"
+    },
+    "15Bus": {
+        "ID": "15Bus",
+        "Round": "i+5",
+        "camId": "1010",
+        "Direction": "DR-DR-DL-*"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "1T": {
+        "ID": "1T",
+        "Round": "k+1",
+        "camId": "3101",
+        "Direction": "UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-*"
+    },
+    "2T": {
+        "ID": "2T",
+        "Round": "k+1",
+        "camId": "3110",
+        "Direction": "Ul-DR-DL-UR-UL-UR-DR-DL-UL-UL-UR-UR-UL-DR-DL-DL-DR-DL-*"
+    },
+    "3T": {
+        "ID": "3T",
+        "Round": "k+1",
+        "camId": "3010",
+        "Direction": "DR-UL-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-DL-DR-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-DL-DR-*"
+    },
+    "4T": {
+        "ID": "4T",
+        "Round": "k+1",
+        "camId": "3110",
+        "Direction": "DL-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-DL-DR-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-DL-DR-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-*"
+    },
+    "5T": {
+        "ID": "5T",
+        "Round": "k+1",
+        "camId": "3111",
+        "Direction": "Ul-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-DL-DR-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-DL-DR-UR-UR-DR-DL-DR-DR-DR-DL-DR-UL-UR-UR-UR-UL-UL-DR-*"
+    },
+    "6T": {
+        "ID": "6T",
+        "Round": "k+1",
+        "camId": "3011",
+        "Direction": "DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-*"
+    },
+    "7T": {
+        "ID": "7T",
+        "Round": "k+2",
+        "camId": "3101",
+        "Direction": "Ul-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL*"
+    },
+    "8T": {
+        "ID": "8T",
+        "Round": "k+2",
+        "camId": "3110",
+        "Direction": "UR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-*"
+    },
+    "9T": {
+        "ID": "9T",
+        "Round": "k+2",
+        "camId": "3010",
+        "Direction": "DL-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-*"
+    },
+    "10T": {
+        "ID": "10T",
+        "Round": "k+2",
+        "camId": "3110",
+        "Direction": "UL-DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-*"
+    },
+    "11T": {
+        "ID": "11T",
+        "Round": "k+2",
+        "camId": "3111",
+        "Direction": "DR-DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-*"
+    },
+    "12T": {
+        "ID": "12T",
+        "Round": "k+2",
+        "camId": "3011",
+        "Direction": "DL-DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-DR-UL-UR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL"
+    },
+    "13T": {
+        "ID": "13T",
+        "Round": "k+3",
+        "camId": "3101",
+        "Direction": "DR-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "14T": {
+        "ID": "14T",
+        "Round": "k+3",
+        "camId": "3110",
+        "Direction": "UL-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "15T": {
+        "ID": "15T",
+        "Round": "k+3",
+        "camId": "3010",
+        "Direction": "DL-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "16T": {
+        "ID": "16T",
+        "Round": "k+3",
+        "camId": "3110",
+        "Direction": "DL-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-UL-DR-UR-UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "17T": {
+        "ID": "17T",
+        "Round": "k+3",
+        "camId": "3111",
+        "Direction": "UL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL*"
+    },
+    "18T": {
+        "ID": "18T",
+        "Round": "k+3",
+        "camId": "3011",
+        "Direction": "UR-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "19T": {
+        "ID": "19T",
+        "Round": "k+4",
+        "camId": "3101",
+        "Direction": "DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "20T": {
+        "ID": "20T",
+        "Round": "k+4",
+        "camId": "3110",
+        "Direction": "UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-*"
+    },
+    "21T": {
+        "ID": "21T",
+        "Round": "k+4",
+        "camId": "3010",
+        "Direction": "UR-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-*"
+    },
+    "22T": {
+        "ID": "22T",
+        "Round": "k+4",
+        "camId": "3110",
+        "Direction": "UL-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-UR-UR-UL-UL-DL-*"
+    },
+    "23T": {
+        "ID": "23T",
+        "Round": "k+4",
+        "camId": "3111",
+        "Direction": "DR-UR-UR-UL-UL-DL-*"
+    },
+    "24T": {
+        "ID": "24T",
+        "Round": "k+4",
+        "camId": "3011",
+        "Direction": "DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "25T": {
+        "ID": "25T",
+        "Round": "k+5",
+        "camId": "3101",
+        "Direction": "DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "26T": {
+        "ID": "26T",
+        "Round": "k+5",
+        "camId": "3110",
+        "Direction": "UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "27T": {
+        "ID": "27T",
+        "Round": "k+5",
+        "camId": "3010",
+        "Direction": "UR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-DL-UR-UL-DR*"
+    },
+    "28T": {
+        "ID": "28T",
+        "Round": "k+5",
+        "camId": "3110",
+        "Direction": "DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-DL-UR-UL-DR*"
+    },
+    "29T": {
+        "ID": "29T",
+        "Round": "k+5",
+        "camId": "3111",
+        "Direction": "UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR*"
+    },
+    "30T": {
+        "ID": "30T",
+        "Round": "k+5",
+        "camId": "3011",
+        "Direction": "DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    }
+}

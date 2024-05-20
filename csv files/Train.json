@@ -1,0 +1,302 @@
+{
+    "1Tr": {
+        "ID": "1Tr",
+        "Round": "j+1",
+        "camId": "2011",
+        "Direction": "DR-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "2Tr": {
+        "ID": "2Tr",
+        "Round": "j+1",
+        "camId": "2110",
+        "Direction": "DL-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-*"
+    },
+    "3Tr": {
+        "ID": "3Tr",
+        "Round": "j+1",
+        "camId": "2111",
+        "Direction": "UL-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-*"
+    },
+    "4Tr": {
+        "ID": "4Tr",
+        "Round": "j+1",
+        "camId": "2011",
+        "Direction": "DR-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "5Tr": {
+        "ID": "5Tr",
+        "Round": "j+1",
+        "camId": "2101",
+        "Direction": "DL-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "6Tr": {
+        "ID": "6Tr",
+        "Round": "j+1",
+        "camId": "2010",
+        "Direction": "UL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "7Tr": {
+        "ID": "7Tr",
+        "Round": "j+1",
+        "camId": "2000",
+        "Direction": "UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "8Tr": {
+        "ID": "8Tr",
+        "Round": "j+1",
+        "camId": "2001",
+        "Direction": "DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "9Tr": {
+        "ID": "9Tr",
+        "Round": "j+1",
+        "camId": "2012",
+        "Direction": "UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "10Tr": {
+        "ID": "10Tr",
+        "Round": "j+1",
+        "camId": "2301",
+        "Direction": "DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "11Tr": {
+        "ID": "11Tr",
+        "Round": "j+2",
+        "camId": "2011",
+        "Direction": "UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "12Tr": {
+        "ID": "12Tr",
+        "Round": "j+2",
+        "camId": "2110",
+        "Direction": "DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "13Tr": {
+        "ID": "13Tr",
+        "Round": "j+2",
+        "camId": "2111",
+        "Direction": "DL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "14Tr": {
+        "ID": "14Tr",
+        "Round": "j+2",
+        "camId": "2011",
+        "Direction": "UL-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "15Tr": {
+        "ID": "15Tr",
+        "Round": "j+2",
+        "camId": "2101",
+        "Direction": "DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-DL-UR-UL-DR-UR-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "16Tr": {
+        "ID": "16Tr",
+        "Round": "j+2",
+        "camId": "2010",
+        "Direction": "DL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "17Tr": {
+        "ID": "17Tr",
+        "Round": "j+2",
+        "camId": "2000",
+        "Direction": "UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-UL-UL-DR-*"
+    },
+    "18Tr": {
+        "ID": "18Tr",
+        "Round": "j+2",
+        "camId": "2001",
+        "Direction": "DL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "19Tr": {
+        "ID": "19Tr",
+        "Round": "j+2",
+        "camId": "2012",
+        "Direction": "UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "20Tr": {
+        "ID": "20Tr",
+        "Round": "j+2",
+        "camId": "2301",
+        "Direction": "UR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "21Tr": {
+        "ID": "21Tr",
+        "Round": "j+3",
+        "camId": "2011",
+        "Direction": "UL-UR-UL-UL-DL-UL-DR-*"
+    },
+    "22Tr": {
+        "ID": "22Tr",
+        "Round": "j+3",
+        "camId": "2110",
+        "Direction": "DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "23Tr": {
+        "ID": "23Tr",
+        "Round": "j+3",
+        "camId": "2111",
+        "Direction": "DL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "24Tr": {
+        "ID": "24Tr",
+        "Round": "j+3",
+        "camId": "2011",
+        "Direction": "UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "25Tr": {
+        "ID": "25Tr",
+        "Round": "j+3",
+        "camId": "2101",
+        "Direction": "DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "26Tr": {
+        "ID": "26Tr",
+        "Round": "j+3",
+        "camId": "2010",
+        "Direction": "UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "27Tr": {
+        "ID": "27Tr",
+        "Round": "j+3",
+        "camId": "2000",
+        "Direction": "UR-UL-UR-R-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "28Tr": {
+        "ID": "28Tr",
+        "Round": "j+3",
+        "camId": "2001",
+        "Direction": "UL-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-DL-UL-DR*"
+    },
+    "29Tr": {
+        "ID": "29Tr",
+        "Round": "j+3",
+        "camId": "2012",
+        "Direction": "DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-*"
+    },
+    "30Tr": {
+        "ID": "30Tr",
+        "Round": "j+3",
+        "camId": "2301",
+        "Direction": "DL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-*"
+    },
+    "31Tr": {
+        "ID": "31Tr",
+        "Round": "j+4",
+        "camId": "2011",
+        "Direction": "UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-UL-DL-UL-DR-*"
+    },
+    "32Tr": {
+        "ID": "32Tr",
+        "Round": "j+4",
+        "camId": "2110",
+        "Direction": "DR-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "33Tr": {
+        "ID": "33Tr",
+        "Round": "j+4",
+        "camId": "2111",
+        "Direction": "DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "34Tr": {
+        "ID": "34Tr",
+        "Round": "j+4",
+        "camId": "2011",
+        "Direction": "UL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "35Tr": {
+        "ID": "35Tr",
+        "Round": "j+4",
+        "camId": "2101",
+        "Direction": "DR-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "36Tr": {
+        "ID": "36Tr",
+        "Round": "j+4",
+        "camId": "2010",
+        "Direction": "UR-DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-*"
+    },
+    "37Tr": {
+        "ID": "37Tr",
+        "Round": "j+4",
+        "camId": "2000",
+        "Direction": "DL-UL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "38Tr": {
+        "ID": "38Tr",
+        "Round": "j+4",
+        "camId": "2001",
+        "Direction": "DR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "39Tr": {
+        "ID": "39Tr",
+        "Round": "j+4",
+        "camId": "2012",
+        "Direction": "ULUR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "40Tr": {
+        "ID": "40Tr",
+        "Round": "j+4",
+        "camId": "2301",
+        "Direction": "DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-*"
+    },
+    "41Tr": {
+        "ID": "41Tr",
+        "Round": "j+5",
+        "camId": "2011",
+        "Direction": "DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "42Tr": {
+        "ID": "42Tr",
+        "Round": "j+5",
+        "camId": "2110",
+        "Direction": "DR-UL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "43Tr": {
+        "ID": "43Tr",
+        "Round": "j+5",
+        "camId": "2111",
+        "Direction": "DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "44Tr": {
+        "ID": "44Tr",
+        "Round": "j+5",
+        "camId": "2011",
+        "Direction": "UL-UR-UL-UR--UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "45Tr": {
+        "ID": "45Tr",
+        "Round": "j+5",
+        "camId": "2101",
+        "Direction": "DR-UR-UL-UR-UL-UL-L-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "46Tr": {
+        "ID": "46Tr",
+        "Round": "j+5",
+        "camId": "2010",
+        "Direction": "DR-UL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    },
+    "47Tr": {
+        "ID": "47Tr",
+        "Round": "j+5",
+        "camId": "2000",
+        "Direction": "UR-UR-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "48Tr": {
+        "ID": "48Tr",
+        "Round": "j+5",
+        "camId": "2001",
+        "Direction": "DL-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "49Tr": {
+        "ID": "49Tr",
+        "Round": "j+5",
+        "camId": "2012",
+        "Direction": "DR-UR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UL-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-UR-UL-UL-DL-UL-DR-*"
+    },
+    "50Tr": {
+        "ID": "50Tr",
+        "Round": "j+5",
+        "camId": "2301",
+        "Direction": "UL-UL-UR-UL-UL-UL-UR-UR-UL-UL-DL-UR-UL-UL-UL-UR-UR-UL-UL-DL-*"
+    }
+}
